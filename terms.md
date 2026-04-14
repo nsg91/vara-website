@@ -1,164 +1,94 @@
-# Terms of Service — BidGrip
+# Terms of Service — Vara
 
-**Effective Date:** February 23, 2026
-**Owner / Operator:** BidGrip (by Nicolas S.)
+**Effective Date:** April 14, 2026
+**Owner / Operator:** Vara (by Nicolas S.)
 **Contact Email:** nsgn.one@gmail.com
 
 ---
 
 ## 1. Acceptance of Terms
 
-By downloading, accessing, or using BidGrip (“the App”), you agree to these Terms of Service (“Terms”).
-
-If you do not agree, do not use the App.
+By downloading, accessing, or using Vara (“the App”), you agree to these Terms of Service (“Terms”). If you do not agree, do not use the App.
 
 ---
 
 ## 2. Description of the Service
 
-BidGrip provides business management and estimation tools for contractors and professionals, including:
-
-- Creating, managing, and tracking quotes and invoices
-- Generating professional PDF documents to send to clients
-- Managing client profiles and contact information
-- Maintaining a custom catalog of services, materials, and products
-- Attaching before and after photos to project documents
-- Cloud synchronization and backup of business data
-
-Some features are free. Others may require a paid premium subscription.
+Vara is a wellness and nervous system tracking application. It utilizes your iOS device's camera to measure optical heart rate data, calculates physiological metrics, and provides guided breathing practices. 
 
 ---
 
-## 3. Eligibility
+## 3. Medical Disclaimer (Not Medical Advice)
 
-You must be at least 13 years old to use the App. However, as this is a business and financial tool, you represent that you have the legal capacity to enter into binding contracts in your jurisdiction.
-
----
-
-## 4. Onboarding and Personalization
-
-To use the App effectively, users must:
-
-- Set up a Business Profile
-- Provide business details such as business name, currency, tax rates, and contact information.
-
-You are responsible for ensuring that the business information and financial settings (like tax rates) you input are accurate and comply with your local laws.
+**VARA IS NOT A MEDICAL DEVICE.**
+The App, including all measurements, scores, and guided protocols, is provided for informational and wellness purposes only. It is not intended to diagnose, treat, cure, or prevent any disease or medical condition. Do not use the App as a substitute for professional medical advice, diagnosis, or treatment. Always consult a physician or qualified health provider regarding any medical condition or prior to starting any new breathing or wellness regimen.
 
 ---
 
-## 5. Accounts and Access
+## 4. Accounts and Access
 
-### A. Anonymous Use
+To use the App, you must authenticate using Apple Sign-In. You are responsible for maintaining the security of your device and Apple account credentials. 
 
-The App may initially be used anonymously without signing in. Data created in this mode is tied to your current device installation.
+---
 
-### B. Optional Sign-In
+## 5. Data Storage
 
-Signing in with Apple, Google, or email is highly recommended to securely back up your data to the cloud, sync across multiple devices, and access premium subscription-based features.
-
-You are responsible for maintaining the security of your account credentials.
+- **Free Tier:** Your wellness data is stored locally on your device. You are responsible for any data loss resulting from device failure or uninstallation of the App.
+- **Premium Tier:** Paid subscribers receive cloud backup functionality via Firebase.
 
 ---
 
 ## 6. Subscriptions and Billing
 
-The App offers a "Free" tier and a premium subscription (e.g., "BidGrip Pro") that unlocks advanced features and limits.
+The App offers a premium subscription that unlocks cloud storage and advanced features.
 
-A. Subscription Plans
-
-- Monthly Subscription: Billed once a month.
-
-- Annual Subscription: Billed once a year.
-
-B. Payment & Auto-Renewal
-
-- Payment: Payment will be charged to your Apple ID (iTunes) or Google Play Account at confirmation of purchase.
-
-- Auto-Renewal: Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
-
-- Renewal Cost: Your account will be charged for renewal within 24-hours prior to the end of the current period at the cost of the chosen plan.
-
-- Management: You can manage your subscriptions and turn off auto-renewal by going to your Account Settings on your device after purchase.
-
-- No Refunds: Unused portions of the subscription period are not refundable, except where required by law. Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription.
+- Payment will be charged to your Apple ID at confirmation of purchase.
+- The subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+- You can manage subscriptions and turn off auto-renewal in your Apple Account Settings.
+- Unused portions of the subscription period are not refundable.
 
 ---
 
-## 7. User Content
-
-You may submit content such as:
-
-- Business logos
-- Client contact details and private notes
-- Pricing, catalog items, and invoice data
-- Project photos (e.g., before and after pictures)
-
-You retain full ownership of your content. You grant us a limited, secure license to store, process, and display it solely to operate the App (such as rendering PDF quotes and backing up your data).
-
-You represent that you have the necessary rights and permissions to upload any client data or photos to the App.
-
----
-
-## 8. Prohibited Uses
+## 7. Prohibited Uses
 
 You agree not to:
-
-- Use the App unlawfully or abusively
-- Interfere with App operation or server infrastructure
-- Reverse-engineer, decompile, or copy the App’s source code
-- Upload malicious or infringing content
-- Bypass feature limits, paywalls, or subscription checks
+- Use the App unlawfully or abusively.
+- Reverse-engineer, decompile, or copy the App’s source code or proprietary measurement algorithms.
+- Bypass feature limits, paywalls, or subscription checks.
 
 ---
 
-## 9. Intellectual Property
+## 8. Intellectual Property
 
-All App content, design, templates, trademarks, and source code belong to BidGrip (by Nicolas S.), excluding your user-generated content and business data.
-
----
-
-## 10. Financial and Legal Disclaimer
-
-It is not a substitute for professional accounting, tax, or legal advice. BidGrip does not guarantee that quotes, invoices, or calculated taxes generated by the App are legally binding or compliant with your specific local tax regulations. You are solely responsible for verifying the accuracy of all financial documents before sending them to clients or tax authorities.
+All App content, design, algorithms, trademarks, and source code belong to Vara (by Nicolas S.), excluding your personal wellness data.
 
 ---
 
-## 11. Disclaimer of Warranties
+## 9. Disclaimer of Warranties
 
-The App is provided “as is” without warranties of any kind.
-
-We do not guarantee uninterrupted service, completely error-free calculations, or that your data will never be subject to accidental loss. We strongly recommend maintaining independent records of your critical business data.
+The App is provided “as is” without warranties of any kind. We do not guarantee uninterrupted service, flawless biometric readings, or that your data will never be subject to accidental loss. 
 
 ---
 
-## 12. Limitation of Liability
+## 10. Limitation of Liability
 
-To the maximum extent permitted by law, BidGrip (by Nicolas S.) shall not be liable for any indirect, incidental, or consequential damages, including loss of profits, loss of data, or business interruptions arising from your use of (or inability to use) the App.
-
----
-
-## 13. Termination
-
-We may suspend or terminate your access to the App if you violate these Terms.
-
-You may stop using the App and delete your account and data at any time via the App's settings.
+To the maximum extent permitted by law, Vara (by Nicolas S.) shall not be liable for any indirect, incidental, or consequential damages, personal injury, or health issues arising from your use of (or inability to use) the App and its breathing protocols.
 
 ---
 
-## 14. Governing Law
+## 11. Governing Law
 
 These Terms are governed by the laws of **Mexico**, without regard to conflict-of-law principles.
 
 ---
 
-## 15. Updates to These Terms
+## 12. Updates to These Terms
 
 We may update these Terms as we add new features or adjust our policies. Continued use of the App after changes are posted constitutes your acceptance of the updated Terms.
 
 ---
 
-## 16. Contact
+## 13. Contact
 
 For questions about these Terms:
-
 **Email:** nsgn.one@gmail.com
